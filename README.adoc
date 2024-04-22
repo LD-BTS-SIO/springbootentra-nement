@@ -1,0 +1,13 @@
+== COMPTE RENDU DE SPRINGBOOT/KOTLIN AVENTURE 
+
+=== DARRAS Loïc
+=== Premier Grand Projet de Deuxième Année de BTS SIO option SLAM
+=== Fait entre septembre 2023 et janvier 2024
+=== Ce projet concerne:
+
+* Le framework Spring Boot
+* Thymeleaf
+* MariaDB DRIVER
+* Couches contrôleurs, modèles et vues
+
+
